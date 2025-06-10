@@ -47,19 +47,20 @@ npm run build
 * [Vue Router](https://router.vuejs.org/)
 * [Pinia](https://pinia.vuejs.org/) (state management)
 
-##  Screenshots
+
+## Screenshots
+
 ### 1. Homepage
-![Homepage Screenshot](/images/screencapture-localhost-5173-2025-06-11-00_52_46.png)
+![Homepage Screenshot](images/screencapture-localhost-5173-2025-06-11-00_52_46.png)
 
 ### 2. Courses Page
-![Courses Screenshot](/images/screencapture-localhost-5173-courses-2025-06-11-00_54_24.png)
+![Courses Screenshot](images/screencapture-localhost-5173-courses-2025-06-11-00_54_24.png)
 
 ### 3. About Page
-![About Screenshot](/images/screencapture-localhost-5173-about-2025-06-11-00_54_54.png)
+![About Screenshot](images/screencapture-localhost-5173-about-2025-06-11-00_54_54.png)
 
 ### 4. Contact Page
-![Contact Screenshot](/images/screencapture-localhost-5173-contact-2025-06-11-00_55_24.png)
-
+![Contact Screenshot](images/screencapture-localhost-5173-contact-2025-06-11-00_55_24.png)
 
 
 ## Key Learning Points
