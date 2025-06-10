@@ -50,17 +50,10 @@ npm run build
 
 ## Screenshots
 
-### 1. Homepage
+### Homepage
 ![Homepage Screenshot](./public/images/screencapture-localhost-5173-2025-06-11-00_52_46.png)
 
-### 2. Courses Page
-![Courses Screenshot](./public/images/screencapture-localhost-5173-courses-2025-06-11-00_54_24.png)
 
-### 3. About Page
-![About Screenshot](./public/images/screencapture-localhost-5173-about-2025-06-11-00_54_54.png)
-
-### 4. Contact Page
-![Contact Screenshot](./public/images/screencapture-localhost-5173-contact-2025-06-11-00_55_24.png)
 
 
 ## Key Learning Points
